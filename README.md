@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Samuel Marcano!</h1>
+<h1 align="center">Hi there, I'm Samuel Marcano! :wave:</h1>
 
 ###
 
@@ -20,12 +20,6 @@
 
 <h2 align="left">Skills & Technologies</h2>
 
-###
-
-<h3 align="left">Frontend:</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img width="12" />
@@ -46,15 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend:</h3>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -72,12 +58,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo"  />
 </div>
 
-###
-
-<h3 align="left">Tools & Cloud:</h3>
+<h2 align="left">Tools & Cloud</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="12" />
@@ -92,16 +75,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelMarcano15&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h2 align="left">Github Stats</h2>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelMarcano15/SamuelMarcano15/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelMarcano15/SamuelMarcano15/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamuelMarcano15/SamuelMarcano15/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=SamuelMarcano15&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
